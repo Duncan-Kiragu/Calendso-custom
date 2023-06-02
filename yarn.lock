@@ -665,10 +665,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jitsu/sdk-js@^2.0.1":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@jitsu/sdk-js/-/sdk-js-2.2.2.tgz#f272a1efe8e61dbe2effab735e9e2b819f553227"
-  integrity sha512-jvYo7oukIF+gfMkWS2zl7FD1PXkRniBJjxTV7FQJdQ0R3vyF0u+NkLDUcS1iKLl5yeXcuX9+LyDEeIMZiRVUHQ==
+"@jitsu/sdk-js@^3.1.5":
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/@jitsu/sdk-js/-/sdk-js-3.1.5.tgz#3d0d92ccc01b621cbe67484c6e246d5ff8721de8"
+  integrity sha512-e7P8uvGBNwWCC864MItcYSv0IT2+nwYiX8QXZ0lfyG8hutEXXX9Yt2/+MynXuGxMIoIrJ+j0bWVu20k9rrhxSg==
 
 "@next-auth/prisma-legacy-adapter@0.0.1-canary.127":
   version "0.0.1-canary.127"
