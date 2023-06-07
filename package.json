@@ -25,7 +25,7 @@
     "@tailwindcss/forms": "^0.2.1",
     "async": "^3.2.0",
     "bcryptjs": "^2.4.3",
-    "classnames": "^2.3.1",
+    "classnames": "^2.3.2",
     "dayjs": "^1.10.4",
     "dayjs-business-days": "^1.0.4",
     "googleapis": "^67.1.1",
